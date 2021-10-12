@@ -1,7 +1,7 @@
-#Context
+# Context
 The dataset is a synthetically generated server log based on Apache Server Logging Format. Each line corresponds to each log entry. The log entry has the following parameters : 
 
-###Components in Log Entry :
+# Components in Log Entry :
 - <b>IP of client:</b> This refers to the IP address of the client that sent the request to the server.
 - <b>Remote Log Name:</b> Remote name of the User performing the request. In the majority of the applications, this is confidential information and is hidden or not available.
 - <b>User ID:</b> The ID of the user performing the request. In the majority of the applications, this is a piece of confidential information and is hidden or not available.
